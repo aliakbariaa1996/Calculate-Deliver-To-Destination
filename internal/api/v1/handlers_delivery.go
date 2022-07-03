@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/aliakbariaa1996/mk-test-one/internal/common/errorx"
-	"github.com/aliakbariaa1996/mk-test-one/internal/common/tracing"
-	"github.com/aliakbariaa1996/mk-test-one/internal/services/delivery"
+	"github.com/aliakbariaa1996/Calculate-Deliver-To-Destination/internal/common/errorx"
+	"github.com/aliakbariaa1996/Calculate-Deliver-To-Destination/internal/common/tracing"
+	"github.com/aliakbariaa1996/Calculate-Deliver-To-Destination/internal/services/delivery"
 	"github.com/labstack/echo/v4"
 	"net/http"
 )

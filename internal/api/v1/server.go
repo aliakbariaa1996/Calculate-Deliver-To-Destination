@@ -1,9 +1,9 @@
 package v1
 
 import (
-	"github.com/aliakbariaa1996/mk-test-one/config"
-	loggerx "github.com/aliakbariaa1996/mk-test-one/internal/common/log"
-	"github.com/aliakbariaa1996/mk-test-one/internal/services/delivery"
+	"github.com/aliakbariaa1996/Calculate-Deliver-To-Destination/config"
+	loggerx "github.com/aliakbariaa1996/Calculate-Deliver-To-Destination/internal/common/log"
+	"github.com/aliakbariaa1996/Calculate-Deliver-To-Destination/internal/services/delivery"
 
 	"github.com/labstack/echo/v4"
 )

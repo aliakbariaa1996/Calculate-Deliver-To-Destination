@@ -2,10 +2,10 @@ package server
 
 import (
 	"context"
-	"github.com/aliakbariaa1996/mk-test-one/config"
-	"github.com/aliakbariaa1996/mk-test-one/internal/api/v1"
-	loggerx "github.com/aliakbariaa1996/mk-test-one/internal/common/log"
-	httpx "github.com/aliakbariaa1996/mk-test-one/internal/http"
+	"github.com/aliakbariaa1996/Calculate-Deliver-To-Destination/config"
+	"github.com/aliakbariaa1996/Calculate-Deliver-To-Destination/internal/api/v1"
+	loggerx "github.com/aliakbariaa1996/Calculate-Deliver-To-Destination/internal/common/log"
+	httpx "github.com/aliakbariaa1996/Calculate-Deliver-To-Destination/internal/http"
 	"log"
 	"os"
 	"os/signal"

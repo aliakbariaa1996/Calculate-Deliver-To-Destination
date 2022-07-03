@@ -6,7 +6,7 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 
-	"github.com/aliakbariaa1996/mk-test-one/internal/common/configx"
+	"github.com/aliakbariaa1996/Calculate-Deliver-To-Destination/internal/common/configx"
 )
 
 type Option func(*Logger)

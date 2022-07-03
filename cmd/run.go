@@ -1,9 +1,9 @@
 package cmd
 
 import (
-	"github.com/aliakbariaa1996/mk-test-one/config"
-	loggerx "github.com/aliakbariaa1996/mk-test-one/internal/common/log"
-	"github.com/aliakbariaa1996/mk-test-one/server"
+	"github.com/aliakbariaa1996/Calculate-Deliver-To-Destination/config"
+	loggerx "github.com/aliakbariaa1996/Calculate-Deliver-To-Destination/internal/common/log"
+	"github.com/aliakbariaa1996/Calculate-Deliver-To-Destination/server"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"

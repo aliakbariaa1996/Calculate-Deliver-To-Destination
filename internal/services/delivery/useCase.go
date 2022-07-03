@@ -1,8 +1,8 @@
 package delivery
 
 import (
-	"github.com/aliakbariaa1996/mk-test-one/config"
-	loggerx "github.com/aliakbariaa1996/mk-test-one/internal/common/log"
+	"github.com/aliakbariaa1996/Calculate-Deliver-To-Destination/config"
+	loggerx "github.com/aliakbariaa1996/Calculate-Deliver-To-Destination/internal/common/log"
 )
 
 type UseCase struct {

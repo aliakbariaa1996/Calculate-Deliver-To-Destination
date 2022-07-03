@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/aliakbariaa1996/mk-test-one/cmd"
+	"github.com/aliakbariaa1996/Calculate-Deliver-To-Destination/cmd"
 	"log"
 	"math/rand"
 	"os"
